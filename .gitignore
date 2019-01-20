@@ -1,0 +1,13 @@
+# History files
+.Rhistory
+
+# Session Data files
+.RData
+
+# RStudio files
+.Rproj.user/
+.Rproj
+
+# All files under /dev folder
+/dev
+.Rproj.user
